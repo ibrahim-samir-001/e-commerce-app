@@ -1,0 +1,11 @@
+.form-container {
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+    padding: 2rem 0;
+}
+
+.card {
+    width: 100%;
+    max-width: 450px;
+}
