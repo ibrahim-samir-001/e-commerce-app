@@ -1,6 +1,6 @@
 
 # E-Commerce App
-
+## Live Deployment  [HERE] (https://e-commerce-angular-mu.vercel.app/)
 ## Developer
 **Ibrahim Samir Jibril**  
 Full Stack Web Developer (MEA|RN)
